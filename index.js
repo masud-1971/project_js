@@ -1,3 +1,5 @@
+// Inrtroductory project on Java Script
+
 // Add two numbers
 
 function add(x, y){
@@ -64,3 +66,5 @@ function positiveOrNegative(num){
 }
 
 console.log(positiveOrNegative(-5));
+
+
